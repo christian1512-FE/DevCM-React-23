@@ -1,6 +1,7 @@
 import React from "react";
 import NavComponent from "../Navbar";
 
+
 function PageHeader ({currentpage, handlePageChange}) {
     return (
     <header>
@@ -10,3 +11,4 @@ function PageHeader ({currentpage, handlePageChange}) {
     );
 }
 export default PageHeader;
+

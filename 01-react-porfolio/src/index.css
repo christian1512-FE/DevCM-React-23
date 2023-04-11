@@ -5,9 +5,105 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.main {
+  background-color: black;
+  min-height: 130vh;
+  color: rgb(255, 255, 255);
+  border: 2px dotted white;
+  margin: 0;
+  position: relative;
+}
+
+.card {
+  width: 18rem;
+  margin: 5px;
+  color: black;
+  /* background-color: rgb(112, 110, 110); */
+}
+
+.card-body {
+  background-color: rgb(112, 110, 110);
+}
+
+/* HOME PAGE STYLE */
+.aboutme {
+  /* background-color: green; */
+  padding: 20px;
+  max-width: 70vw;
+  margin-inline: auto;
+  border: 1px solid red;
+  border-radius: 20px;
+
+}
+
+header {
+  color: rgb(225, 19, 19);
+  padding: 40px;
+}
+
+/* h1 {
+  color: rgb(227, 0, 0);
+} */
+
+nav {
+  background-color: blue;
+}
+
+/* CONTACT ME */
+.contact-container {
+  /* padding-top: 25px; */
+  max-width: 40vw;
+  margin-inline: auto;
+  border: 1px solid red;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+footer {
+  background-color: red;
+  /* max-height: 10vw; */
+  margin-inline: auto;
+  position: absolute; 
+  left: 0;
+  bottom: 0;
+  right: 0; 
+
+}
+
+li {
+  list-style-type: none;
+}
+
+.resumecard {
+  padding: 20px;
+  width: 70vw; 
+
+  margin: 10px auto 10px auto; 
+  border: 1px solid red;
+  border-radius: 20px;
+}
+
+h4 {
+text-align: center;
+}
+
+.image {
+  border: 1px solid red;
+}
+
+.App-logo{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  padding: 20px;
 }
