@@ -2,7 +2,7 @@
   "name": "01-react-porfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://christian1512-FE.github.io/DevCM-React-23",
+  "homepage": "https://christian1512-fe.github.io/DevCM-React-23/",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
