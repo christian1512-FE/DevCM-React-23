@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/DevCM-React-23/static/css/main.22ad4f7b.css",
-    "main.js": "/DevCM-React-23/static/js/main.49d21441.js",
+    "main.css": "/DevCM-React-23/static/css/main.cbdff16a.css",
+    "main.js": "/DevCM-React-23/static/js/main.f05db97d.js",
     "static/js/787.c0291831.chunk.js": "/DevCM-React-23/static/js/787.c0291831.chunk.js",
     "static/media/screenshot1.png": "/DevCM-React-23/static/media/screenshot1.28d479c60f4b50a645c0.png",
     "static/media/passwordgen.png": "/DevCM-React-23/static/media/passwordgen.6c1c5b97a7ba52f3f799.png",
+    "static/media/node.png": "/DevCM-React-23/static/media/node.4c63a7a24c5db97c82d0.png",
+    "static/media/mysql.png": "/DevCM-React-23/static/media/mysql.db7259066977c39a9796.png",
+    "static/media/apiproject.png": "/DevCM-React-23/static/media/apiproject.51e382cd92fcd3590e97.png",
     "static/media/ResumeChristianMendez_2022.pdf": "/DevCM-React-23/static/media/ResumeChristianMendez_2022.3f88c4c828aeaab5610f.pdf",
+    "static/media/express.png": "/DevCM-React-23/static/media/express.6d577afd4782512ed507.png",
     "static/media/GitHublogo.png": "/DevCM-React-23/static/media/GitHublogo.7c8f7736007664c4b0ba.png",
     "static/media/screenshot3.png": "/DevCM-React-23/static/media/screenshot3.021fed17cb887c10d387.png",
     "index.html": "/DevCM-React-23/index.html",
-    "main.22ad4f7b.css.map": "/DevCM-React-23/static/css/main.22ad4f7b.css.map",
-    "main.49d21441.js.map": "/DevCM-React-23/static/js/main.49d21441.js.map",
+    "main.cbdff16a.css.map": "/DevCM-React-23/static/css/main.cbdff16a.css.map",
+    "main.f05db97d.js.map": "/DevCM-React-23/static/js/main.f05db97d.js.map",
     "787.c0291831.chunk.js.map": "/DevCM-React-23/static/js/787.c0291831.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22ad4f7b.css",
-    "static/js/main.49d21441.js"
+    "static/css/main.cbdff16a.css",
+    "static/js/main.f05db97d.js"
   ]
 }
