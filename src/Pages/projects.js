@@ -1,10 +1,12 @@
 import ProjectCard from "../components/ProjectCard";
 import screenshot1 from "../Assets/Images/Screenshots/screenshot1.png";
-// import screenshot2 from "../Assets/Images/Screenshots/screenshot2.png";
 import passwordgen from "../Assets/Images/Screenshots/passwordgen.png";
+import express from "../Assets/Images/Screenshots/express.png";
+import node from "../Assets/Images/Screenshots/node.png";
+import apiproject from "../Assets/Images/Screenshots/apiproject.png";
+import mysql from "../Assets/Images/Screenshots/mysql.png";
 
-
-const sectionStyle= {display:"flex", flexWrap: "wrap", border: "1px solid red", maxWidth: "80vw", margin: "0 auto", justifyContent: "space-around"};
+const sectionStyle= {display:"flex", flexWrap: "wrap", maxWidth: "80vw", margin: "0 auto", justifyContent: "space-around", color: "white"};
 
 function Projects() {
   const myprojects = [
@@ -21,40 +23,40 @@ function Projects() {
       title: "Password Generator",
       image: passwordgen,
       desc: "",
-      website: "",
-      github: "",
+      website: "https://christian1512-fe.github.io/DevCM-Secure-PWD/",
+      github: "https://github.com/christian1512-FE/DevCM-Secure-PWD",
     },
     {
       id: 3,
-      title: "project1",
-      // image: GitHublogo,
+      title: "Express Server",
+      image: express,
       desc: "",
-      website: "",
-      github: "",
+      website: "https://devcm-ex-23.herokuapp.com/",
+      github: "https://github.com/christian1512-FE/DevCM-Ex-23",
     },
     {
       id: 4,
-      title: "project1",
-      image: "",
+      title: "Node.js command-line application",
+      image: node,
       desc: "",
-      website: "",
-      github: "",
+      website: "https://drive.google.com/file/d/1DFtcp-Wrshoswo7lk0Kd8IHLxXUkEMCD/view",
+      github: "https://github.com/christian1512-FE/DevCM-C10-23",
     },
     {
       id: 5,
-      title: "project1",
-      image: "",
+      title: "API Project",
+      image: apiproject,
       desc: "",
-      website: "",
-      github: "",
+      website: "https://fabien1313.github.io/mugs-n-puns/",
+      github: "https://github.com/fabien1313/mugs-n-puns",
     },
     {
       id: 6,
-      title: "project1",
-      image: "",
+      title: "MySQL Database",
+      image: mysql,
       desc: "",
-      website: "",
-      github: "",
+      website: "https://drive.google.com/file/d/1cVBoFqdFjZC9VfbiV6PEVR5HNvlm0S-g/view",
+      github: "https://github.com/christian1512-FE/DevCM-ET-SQL-23",
     },
   ]
   return (
