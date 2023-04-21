@@ -33,7 +33,7 @@ function Resume() {
             </section>
 
             <section>
-            <a href={require("../Assets/Resume/ResumeChristianMendez_2022.pdf")} download>
+            <a href={require("../Assets/Resume/CM-FSD-Resume.pdf")} download>
                 <h4>Download Resume</h4>
             </a>
             </section>
